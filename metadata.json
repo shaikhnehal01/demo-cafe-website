@@ -1,0 +1,6 @@
+{
+  "name": "Brew & Bloom Cafe",
+  "description": "A premium, modern boutique cafe experience website featuring specialty craft coffee, fresh organic food, cozy atmospheres, and easy table reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
